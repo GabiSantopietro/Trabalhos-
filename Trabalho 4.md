@@ -19,4 +19,4 @@ jujubas=50
 if jujubas >balas:
     print ('gabi tem mais jujubas do que bala')
 
-![image](file:///C:/Users/202307478598/Pictures/Screenshot%202024-08-28%20105442%20-%202222.png)
+![Screenshot 2024-08-28 105442 - 2222](https://github.com/user-attachments/assets/ed8cce12-9ef6-4078-9c17-445450b2091a)
