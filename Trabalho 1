@@ -1,1 +1,31 @@
 Aula 1 - 
+
+1 - Inteligência Artificial 
+2 - Dados 
+3 - Nuvem
+4 - Memória 
+5 - Banco de Dados
+ 
+1) "A inteligência artificial é um campo da ciência da computação que se dedica ao estudo e ao desenvolvimento de máquinas e programas computacionais capazes de reproduzir o comportamento humano na tomada de decisões e na realização de tarefas, desde as mais simples até as mais complexas.  É comumente referida pela sigla IA ou AI (em inglês, artificial intelligence). "https://brasilescola.uol.com.br/informatica/inteligencia-artificial.htm"
+ 
+2) Dados é o termo aplicado a informações coletadas em formato específico para análise. Trata-se de uma coleção de fatos ou valores qualitativos, quantitativos ou estatísticos que possuem significado útil e podem ser interpretados para facilitar a decisão ou otimizar alguma atividade produtiva.
+O termo pode representar ideias abstratas ou medidas concretas e é comumente aplicado em pesquisas científicas, finanças e em praticamente todas as atividades organizacionais que exigem a análise de informações.
+Essas informações brutas geralmente são organizadas em estruturas conhecidas como tabelas, que podem ser usadas em estruturas maiores para gerar contexto e significado a um determinado tema.
+No contexto da ciência da informação, dados são registros armazenados em sistemas computacionais que podem, por meio de softwares que fazem uso de [algoritmos]
+Preços de ações, taxas de criminalidade, nível de desemprego, alfabetização são apenas alguns exemplos de conjunto de dados.
+Nesse contexto, essas informações brutas representam os fatos e números que podem ser usados para serem processados para a tomada de decisão. "https://www.controle.net/faq/o-que-sao-dados"
+ 
+3) Resumindo, a computação em nuvem é o fornecimento de serviços de computação, incluindo servidores, armazenamento, bancos de dados, rede, software, análise e inteligência, pela Internet (“a nuvem”) para oferecer inovações mais rápidas, recursos flexíveis e economias de escala. Você normalmente paga apenas pelos serviços de nuvem que usa, ajudando a reduzir os custos operacionais, a executar sua infraestrutura com mais eficiência e a escalonar conforme as necessidades da sua empresa mudam. "https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-cloud-computing"
+ 
+4) A memória de um computador nada mais é que um circuito "eletrônico" ou um "meio magnético", com capacidade de armazenagem de dados, os quais são imprecindíveis ao processamento: dados de entrada,programas, sistemas operacionais, arquivos, softwares de aplicação, de suporte e básico, e instruções gerais para um bom funcionamento do computador. Existem dois grandes grupos de memória:
+[memória interna (memória primária)](https://www.inf.ufsc.br/~j.barreto/cca/perifer/memorias.html#Mem%C3%B3ria%20Interna)
+[memória externa (memória secundária)](https://www.inf.ufsc.br/~j.barreto/cca/perifer/memorias.html#Mem%C3%B3ria%20Interna)
+"https://www.inf.ufsc.br/~j.barreto/cca/perifer/memorias.html"
+ 
+5) Um banco de dados é uma coleção organizada de informações - ou dados - estruturadas, normalmente armazenadas eletronicamente em um sistema de computador. Um banco de dados é geralmente controlado por um [sistema de gerenciamento de banco de dados (DBMS)](https://www.oracle.com/br/database/what-is-database/#WhatIsDBMS). Juntos, os dados e o DBMS, juntamente com os aplicativos associados a eles, são chamados de sistema de banco de dados, geralmente abreviados para apenas banco de dados.
+https://www.oracle.com/br/database/what-is-database/#:~:text=Um%20banco%20de%20dados%20%C3%A9,banco%20de%20dados%20(DBMS).
+ 
+ 
+O que é um repositório ?
+R: Um repositório é o elemento mais básico do GitHub. É um lugar onde você pode armazenar seu código, seus arquivos e o histórico de revisão de cada arquivo. Os repositórios podem ter vários colaboradores e podem ser públicos ou particulares. Para criar um novo repositório, vá para https://github.com/new.
+ 
