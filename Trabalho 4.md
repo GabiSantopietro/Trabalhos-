@@ -8,7 +8,7 @@ frutas = {'uva', 'banana', 'cereja', 'abacaxi'}
 for palavras in frutas:
     print ('frutas')
 
-https://raw.githubusercontent.com/GabiSantopietro/Trabalho-3-/main/imagem%20trabalho%204.png
+![image](https://raw.githubusercontent.com/GabiSantopietro/Trabalho-3-/main/imagem%20trabalho%204.png)
 
 ESTRUTURA DE TOMADA DE DECISÃO: 
 
@@ -19,4 +19,4 @@ jujubas=50
 if jujubas >balas:
     print ('gabi tem mais jujubas do que bala')
 
-file:///C:/Users/202307478598/Pictures/Screenshot%202024-08-28%20105442%20-%202222.png
+![image](file:///C:/Users/202307478598/Pictures/Screenshot%202024-08-28%20105442%20-%202222.png)
