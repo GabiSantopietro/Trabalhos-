@@ -1,0 +1,45 @@
+Aula 2 
+
+A RELAÇÃO ENTRE A LGPD E OS DATA CENTERS NO BRASIL: 
+
+Data centers no Brasil: São locais físicos onde se encontram computadores, aceleração e todos os tipos de equipamentos e hardwares necessários para a utilização de dados em serviços de TI.
+Tal conceito está relacionado à Lei Geral de Proteção de Dados, tendo em vista que a LGPD obriga as organizações a serem mais responsáveis ​​pelo gerenciamento das informações armazenadas. Esse aspecto mostra a necessidade de um cuidado especial com a administração do Data Center.
+Os data centers internacionais, especialmente os contratados por gigantes como Google, Amazon Web Services (AWS) e Microsoft Azure, frequentemente seguem padrões específicos para garantir alto desempenho e segurança.
+Classificação Tier 4: Alguns data centers são classificados como Tier 4, oferecendo redundância completa e tolerância a falhas.
+
+
+Como Exemplo - Tecnologia de Ponta: Utilização de tecnologias avançadas como IA e machine learning para otimização de operações.
+Sustentabilidade: Compromisso com energia renovável e práticas sustentáveis.
+Segurança Avançada: Protocolos de segurança rigorosos e certificações globais como ISO 27001, SOC 2 e PCI DSS.
+
+Os data centers internacionais possuem vastas capacidades, apoiando empresas globais com critério de alto desempenho e escalabilidade.
+Exemplo- Escala Massiva: Suporte para milhões de usuários e enormes volumes de dados.
+Rede Global: Conectividade intercontinental que oferece baixa latência em escala global.
+Inovação Contínua: Investimento constante em novas tecnologias e expansão de infraestrutura.
+
+FORMATOS: 
+
+Um formato aberto, em informática, indica uma concepção técnica de domínio público usada para a descrição e armazenamento de dados digitais, livre de restrições legais para seu uso.
+O principal objetivo dos formatos abertos é garantir o acesso aos dados a longo prazo sem inseguranças jurídicas ou restrições devidas às especificações técnicas: em outras palavras, garantir a interoperabilidade. Outro objetivo do formato aberto é aumentar a concorrência, ao invés de permitir que um único fabricante tenha o controle sobre um formato proprietário.
+
+Ex: [OASIS (para sites e documentos para escritório])
+[LaTeX](uma linguagem de documentação)
+[Json] (uma linguagem de documentação)
+EPUB (formato de arquivo digital)
+[DVI] (uma linguagem para descrição de página)
+[TXT] (um formato de texto que não contém formatação)
+[ODT] (um formato de texto)
+
+Os formatos proprietários são, na verdade, controlados e definidos por interesses privados.
+o formato proprietário, o usuário corre o risco de perder todas as informações contidas no arquivo caso o software pare de operar ou seja descontinuado, já que não teria outro sistema capaz de processá-las. Todas as informações coletadas nos arquivos públicos (órgãos, instituições, administração, etc.) se tornariam ilegíveis e inutilizáveis ​​em muito pouco tempo.
+
+Ex;. DWG - Desenho AutoCad
+SWF - Onda de choque Flash
+DOC - formato proprietário de texto
+PPT - formato proprietário de apresentação de slides 
+
+Os dados públicos são informações que estão disponíveis para qualquer cidadão, geralmente mantidos por órgãos governamentais ou entidades públicas. Eles podem abranger uma ampla variedade de temas, desde estatísticas demográficas até relatórios financeiros de instituições governamentais. Esses dados são considerados públicos porque são de interesse coletivo e devem ser acessíveis a todos, sem restrições indevidas.
+Os dados não dizem respeito ao formato de arquivos, pois não estão sujeitos a limitações válidas de privacidade, segurança ou controle de acesso, reguladas por estatutos.
+
+https://biblus.accasoftware.com/ptb/formatos-abertos-e-formatos-proprietarios-como-funciona-e-como-e-constituido-o-arquivo-ifc/
+https://reyabogado.com/brasil/quais-sao-os-dados-publicos/
