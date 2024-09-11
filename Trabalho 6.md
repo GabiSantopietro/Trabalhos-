@@ -21,3 +21,9 @@ https://www.programiz.com/online-compiler/8ap1zRBS1eFIn
 https://www.programiz.com/online-compiler/9sFGQP9v4I5De
 
 ![trabalho 6 - 4](https://github.com/user-attachments/assets/d292eb70-751c-43b9-b7fb-4ce11dd4feec)
+
+5) FUNÇÃO QUE CONTINUE A PEDIR PARA DIGITAR NOMES ATÉ QUE O NOME 'SAIR' SEJA DIGITADO
+
+https://www.programiz.com/online-compiler/4FW41O6HN9GAA
+
+![trabalho 6 - 5 ](https://github.com/user-attachments/assets/c1766c21-0056-4278-aff5-af97cfc4c717)
