@@ -9,3 +9,9 @@ https://www.programiz.com/online-compiler/9c2n5tfOWgrHw
 https://www.programiz.com/online-compiler/8ap1zRBS1eFIn
 
 ![Screenshot 2024-09-11 092401 -2222](https://github.com/user-attachments/assets/d87d9b82-7a02-4be4-bab6-6126b5bd943e)
+
+3) FUNÇÃO PARA DIGITAR ITENS DE UMA LISTA DE COMPRAS:
+
+ https://www.programiz.com/online-compiler/6MLgA6zVKnlhR
+
+![trabalho 6 - 3](https://github.com/user-attachments/assets/e8374364-fdb0-4819-b43f-518a11c9cde4)
