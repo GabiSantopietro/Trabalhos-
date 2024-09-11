@@ -18,4 +18,6 @@ https://www.programiz.com/online-compiler/8ap1zRBS1eFIn
 
 4)FUNÇÃO QUE SOLICITE AO USUÁRIO A TEMPERATURA EM GRAUS CELSIUS E CONVERTA PARA FAHRENHEIT
 
+https://www.programiz.com/online-compiler/9sFGQP9v4I5De
+
 ![trabalho 6 - 4](https://github.com/user-attachments/assets/d292eb70-751c-43b9-b7fb-4ce11dd4feec)
