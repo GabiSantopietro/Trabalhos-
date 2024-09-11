@@ -7,3 +7,5 @@ https://www.programiz.com/online-compiler/9c2n5tfOWgrHw
 2)FUNÇÃO QUE PEÇA DOIS NUMEROS E A OPERAÇÃO DESEJADA: 
 
 https://www.programiz.com/online-compiler/8ap1zRBS1eFIn
+
+![Screenshot 2024-09-11 092401 -2222](https://github.com/user-attachments/assets/d87d9b82-7a02-4be4-bab6-6126b5bd943e)
