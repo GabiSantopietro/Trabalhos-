@@ -15,3 +15,7 @@ https://www.programiz.com/online-compiler/8ap1zRBS1eFIn
  https://www.programiz.com/online-compiler/6MLgA6zVKnlhR
 
 ![trabalho 6 - 3](https://github.com/user-attachments/assets/e8374364-fdb0-4819-b43f-518a11c9cde4)
+
+4)FUNÇÃO QUE SOLICITE AO USUÁRIO A TEMPERATURA EM GRAUS CELSIUS E CONVERTA PARA FAHRENHEIT
+
+![trabalho 6 - 4](https://github.com/user-attachments/assets/d292eb70-751c-43b9-b7fb-4ce11dd4feec)
