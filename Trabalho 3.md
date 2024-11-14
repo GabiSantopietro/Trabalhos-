@@ -12,6 +12,8 @@ JAVA
 
 https://www.programiz.com/online-compiler/5oVF76qQUEGqa
 
+![image](https://github.com/user-attachments/assets/4f0ff181-e782-4b64-8ac8-ae5d15b036a5)
+
 GoLang
 
 https://go.dev/play/p/FYjykZ9MxlF
