@@ -2,10 +2,10 @@ Aula 3
 
 Python: 
 
-![image](https://replit.com/join/cewsvxthpp-gabisantopietro)
+https://www.programiz.com/python-programming/online-compiler/
 
 
-![image](https://github.com/user-attachments/assets/2fca7203-bf2b-4996-b7fe-bf7e77dd0e6c)
+
 
 JAVA 
 
