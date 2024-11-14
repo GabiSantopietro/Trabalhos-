@@ -10,10 +10,7 @@ Python:
 
 JAVA 
 
-![image](https://replit.com/join/ddvotzwpkp-gabisantopietro)
-
-
-https://github.com/user-attachments/assets/d812f8cc-bc6c-4c8e-806b-c3aa6d182998
+https://www.programiz.com/online-compiler/5oVF76qQUEGqa
 
 GoLang
 
