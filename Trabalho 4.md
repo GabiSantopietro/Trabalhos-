@@ -9,6 +9,7 @@ https://www.programiz.com/online-compiler/40nfxjpdzU3aJ
 
 ESTRUTURA DE TOMADA DE DECISÃO: 
 
+https://www.programiz.com/online-compiler/978Zhw0koOKzT
 
 ![image](https://github.com/user-attachments/assets/3154b6d5-99d1-4f50-93af-ccd2c0b9e3db)
 
