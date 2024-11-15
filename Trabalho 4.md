@@ -2,13 +2,9 @@ Aula 4 - 28/08/2024
 
 ESTRUTURA DE REPETIÇÃO: 
 
-# Online Python compiler (interpreter) to run Python online.
-# Write Python 3 code in this online editor and run it.
-frutas = {'uva', 'banana', 'cereja', 'abacaxi'}
-for palavras in frutas:
-    print ('frutas')
+    
+![image](https://github.com/user-attachments/assets/30b4c0f1-c295-4c36-8290-c7e64be47622)
 
-![image](https://raw.githubusercontent.com/GabiSantopietro/Trabalho-3-/main/imagem%20trabalho%204.png)
 
 ESTRUTURA DE TOMADA DE DECISÃO: 
 
