@@ -12,9 +12,11 @@ https://www.programiz.com/online-compiler/9pgSFM0BbYMoo
 
 
 3) Escreva uma funação que leia o conteúdo do arquivo de exemplo e o escreva em um novo arquivo
+   
+https://www.programiz.com/online-compiler/3BT7gPcBpFmOj
 
 ![image](https://github.com/user-attachments/assets/7cee98a4-e083-468c-bb38-03368756b053)
 
-5) Escreva uma função que peça ao usuário um número, percorra o arquivo de exemplo, e escreva na tela o nome correspondente ao número
+4) Escreva uma função que peça ao usuário um número, percorra o arquivo de exemplo, e escreva na tela o nome correspondente ao número
 
    
