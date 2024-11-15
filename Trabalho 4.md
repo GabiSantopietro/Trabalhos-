@@ -9,11 +9,6 @@ https://www.programiz.com/online-compiler/40nfxjpdzU3aJ
 
 ESTRUTURA DE TOMADA DE DECISÃO: 
 
-# Online Python compiler (interpreter) to run Python online.
-# Write Python 3 code in this online editor and run it.
-balas= 30
-jujubas=50
-if jujubas >balas:
-    print ('gabi tem mais jujubas do que bala')
 
-![Screenshot 2024-08-28 105442 - 2222](https://github.com/user-attachments/assets/ed8cce12-9ef6-4078-9c17-445450b2091a)
+![image](https://github.com/user-attachments/assets/3154b6d5-99d1-4f50-93af-ccd2c0b9e3db)
+
